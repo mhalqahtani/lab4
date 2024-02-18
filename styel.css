@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #78d3df;
+}
+
+h1 {
+    text-align: center;
+}
+
+.forTheLabel {
+    padding: 7px;
+    font-size: 14px; 
+    font-weight: bold; 
+}
+
+.ForTheInput {
+    width: 250px;
+    height: 30px; 
+    border-radius: 10px; 
+    padding: 5px;
+}
+
+.ForTextarea {
+    width: 250px; 
+    height: 100px; 
+    border-radius: 10px; 
+    padding: 5px; 
+}
+
+.su {
+    background-color: #54d105;
+    color: #000000;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    border: none; 
+    border-radius: 10px;
+}
